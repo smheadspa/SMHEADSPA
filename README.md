@@ -1,11 +1,24 @@
-<div align="center">
+# SM Head Spa — O Luxo do Silêncio 🥂
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Este é o repositório oficial do website **SM Head Spa**, um estúdio de bem-estar de alto padrão localizado em Foz do Iguaçu - PR. O projeto foi desenvolvido com foco em uma experiência de usuário (UX) premium, utilizando estética editorial e rituais de relaxamento.
 
-  <h1>Built with AI Studio</h2>
+## ✨ Características do Projeto
+- **Design de Luxo**: Uso de gradientes dourados, tipografia serifada clássica e texturas de mármore.
+- **Performance**: Desenvolvido com React + Vite para carregamento instantâneo.
+- **Responsividade**: Totalmente adaptado para dispositivos móveis (experiência mobile-first).
+- **Conversão**: Botões de agendamento flutuantes e chamadas para ação (CTAs) estratégicas via WhatsApp.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🛠️ Tecnologias Utilizadas
+- **React 19**: Biblioteca principal para interface.
+- **Tailwind CSS**: Estilização moderna e rápida.
+- **Lucide React**: Biblioteca de ícones minimalistas.
+- **Vite**: Ferramenta de build de última geração.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🚀 Como visualizar
+O projeto está configurado para deploy automático na **Vercel**. 
+Para rodar localmente:
+1. `npm install`
+2. `npm run dev`
 
-</div>
+---
+*Desenvolvido com foco em sofisticação e bem-estar.*
